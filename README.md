@@ -1,2 +1,2 @@
 # checkin.ru
-Bug reports for the site (first experience)
+Bug reports for the website (first experience)
